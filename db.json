@@ -1,0 +1,353 @@
+{
+    "usuarios": [
+      {
+        "nombre": "Evelina c",
+        "apellido": "Nuñez",
+        "email": "eve@gmail.com",
+        "rol": "admin",
+        "contrasena": "1234",
+        "token": "gfgfgfgfgf"
+      },
+      {
+        "id": 2,
+        "nombre": "Cristina",
+        "apellido": "Nuñez",
+        "email": "cris@gmail.com",
+        "rol": "alumno",
+        "contrasena": "1234",
+        "token": "ccfrvrrfrgcdcdc"
+      },
+      {
+        "id": 3,
+        "nombre": "Carlos",
+        "apellido": "García",
+        "email": "carlos@gmail.com",
+        "rol": "administrativo",
+        "contrasena": "1234",
+        "token": "dcdcdcdcdcassssswxs"
+      },
+      {
+        "id": 4,
+        "nombre": "Luis",
+        "apellido": "Rodríguez",
+        "email": "luis@gmail.com",
+        "rol": "admin",
+        "contrasena": "1234",
+        "token": "dedededededede"
+      },
+      {
+        "id": 5,
+        "nombre": "María",
+        "apellido": "López",
+        "email": "maria@gmail.com",
+        "rol": "profesor",
+        "contrasena": "1234",
+        "token": "addflonngbfvdcdcs"
+      },
+      {
+        "id": 6,
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "email": "juan@gmail.com",
+        "rol": "alumno",
+        "contrasena": "1234",
+        "token": "oldfdmuikilsdf"
+      },
+      {
+        "id": 7,
+        "nombre": "Ana",
+        "apellido": "Martínez",
+        "email": "ana@gmail.com",
+        "rol": "administrativo",
+        "contrasena": "1234",
+        "token": "wewdetthyjsddsv"
+      },
+      {
+        "id": 8,
+        "nombre": "Pedro",
+        "apellido": "Fernández",
+        "email": "pedro@gmail.com",
+        "rol": "admin",
+        "contrasena": "1234",
+        "token": "jkjkjkjkjkjkj"
+      },
+      {
+        "id": 9,
+        "nombre": "Laura",
+        "apellido": "Sánchez",
+        "email": "laura@gmail.com",
+        "rol": "profesor",
+        "contrasena": "1234",
+        "token": "dgdgdgdfgfgfg"
+      },
+      {
+        "nombre": "Cleopatra",
+        "apellido": "Nuñez",
+        "email": "Cleito@gmail.com",
+        "rol": "administradora",
+        "id": 10
+      }
+    ],
+    "alumnos": [
+      {
+        "id": 4,
+        "nombre": "Pedro",
+        "apellido": "Fernández",
+        "email": "pedro@gmail.com",
+        "dni": "666666666D",
+        "telefono": 6666666666,
+        "fechaNacimiento": "1993-12-05T00:00:00.000Z"
+      },
+      {
+        "id": 5,
+        "nombre": "Ana",
+        "apellido": "Martínez",
+        "email": "ana@gmail.com",
+        "dni": "777777777E",
+        "telefono": 7777777777,
+        "fechaNacimiento": "1985-04-25T00:00:00.000Z"
+      },
+      {
+        "id": 6,
+        "nombre": "Miguel",
+        "apellido": "García",
+        "email": "miguel@gmail.com",
+        "dni": "888888888F",
+        "telefono": 8888888888,
+        "fechaNacimiento": "1998-09-30T00:00:00.000Z"
+      },
+      {
+        "id": 7,
+        "nombre": "Laura",
+        "apellido": "Sánchez",
+        "email": "laura@gmail.com",
+        "dni": "999999999G",
+        "telefono": 9999999999,
+        "fechaNacimiento": "1992-07-18T00:00:00.000Z"
+      },
+      {
+        "id": 8,
+        "nombre": "Carlos",
+        "apellido": "Rodríguez",
+        "email": "carlos@gmail.com",
+        "dni": "111111111H",
+        "telefono": 1111111111,
+        "fechaNacimiento": "1997-03-12T00:00:00.000Z"
+      },
+      {
+        "id": 9,
+        "nombre": "Cristina",
+        "apellido": "Nuñez",
+        "email": "cristina@gmail.com",
+        "dni": "222222222I",
+        "telefono": 2222222222,
+        "fechaNacimiento": "1991-10-28T00:00:00.000Z"
+      },
+      {
+        "id": 10,
+        "nombre": "Evelina",
+        "apellido": "Torres",
+        "email": "evelina@gmail.com",
+        "dni": "333333333J",
+        "telefono": 3333333333,
+        "fechaNacimiento": "1996-06-15T00:00:00.000Z"
+      },
+      {
+        "nombre": "Cleito",
+        "apellido": "Nuñez",
+        "email": "cleito@gmail.com",
+        "dni": "12222333",
+        "telefono": "2828288282",
+        "id": 11
+      },
+      {
+        "nombre": "Evelina prueba",
+        "apellido": "Nuñez",
+        "email": "evelina@gmail.com",
+        "dni": "233343",
+        "telefono": "112344444",
+        "id": 12
+      }
+    ],
+    "cursos": [
+      {
+        "nombre": "Cálculo Avanzado Editado",
+        "descripcion": "Explora conceptos avanzados de cálculo y análisis matemático.",
+        "instructor": "Luis Rodríguez editado",
+        "costo": "1500",
+        "categoria": "Matemáticas editado",
+        "id": 3
+      },
+      {
+        "id": 4,
+        "nombre": "Estrategias de Marketing en Redes Sociales",
+        "descripcion": "Aprende a promocionar productos y servicios en redes sociales.",
+        "instructor": "María López",
+        "duracionHoras": 35,
+        "fechaInicio": "2023-02-20T00:00:00.000Z",
+        "fechaFin": "2023-04-05T00:00:00.000Z",
+        "cupoMaximo": 25,
+        "costo": 129.99,
+        "nivel": "Intermedio",
+        "categoria": "Marketing",
+        "requisitos": [
+          "Conocimientos básicos de marketing digital."
+        ]
+      },
+      {
+        "id": 5,
+        "nombre": "Fotografía de Naturaleza",
+        "descripcion": "Domina las técnicas de fotografía de la naturaleza y la vida silvestre.",
+        "instructor": "Carlos García",
+        "duracionHoras": 45,
+        "fechaInicio": "2023-03-05T00:00:00.000Z",
+        "fechaFin": "2023-04-30T00:00:00.000Z",
+        "cupoMaximo": 20,
+        "costo": 169.99,
+        "nivel": "Intermedio",
+        "categoria": "Fotografía",
+        "requisitos": [
+          "Cámara digital con ajustes manuales."
+        ]
+      },
+      {
+        "id": 6,
+        "nombre": "Python para Principiantes",
+        "descripcion": "Iníciate en la programación con Python, un lenguaje fácil de aprender.",
+        "instructor": "Juan Martínez",
+        "duracionHoras": 30,
+        "fechaInicio": "2023-02-10T00:00:00.000Z",
+        "fechaFin": "2023-03-20T00:00:00.000Z",
+        "cupoMaximo": 40,
+        "costo": 99.99,
+        "nivel": "Principiante",
+        "categoria": "Programación",
+        "requisitos": [
+          "Ninguno."
+        ]
+      },
+      {
+        "id": 7,
+        "nombre": "Cocina Gourmet",
+        "descripcion": "Aprende a preparar platos gourmet con recetas exclusivas.",
+        "instructor": "Ana Ramírez",
+        "duracionHoras": 55,
+        "fechaInicio": "2023-04-01T00:00:00.000Z",
+        "fechaFin": "2023-05-31T00:00:00.000Z",
+        "cupoMaximo": 15,
+        "costo": 249.99,
+        "nivel": "Avanzado",
+        "categoria": "Cocina",
+        "requisitos": [
+          "Conocimientos básicos de cocina."
+        ]
+      },
+      {
+        "id": 8,
+        "nombre": "Yoga y Meditación",
+        "descripcion": "Mejora tu bienestar físico y mental con sesiones de yoga y meditación.",
+        "instructor": "Sofía Fernández",
+        "duracionHoras": 20,
+        "fechaInicio": "2023-03-15T00:00:00.000Z",
+        "fechaFin": "2023-04-30T00:00:00.000Z",
+        "cupoMaximo": 25,
+        "costo": 79.99,
+        "nivel": "Principiante",
+        "categoria": "Salud y Bienestar",
+        "requisitos": [
+          "Ninguno."
+        ]
+      },
+      {
+        "id": 9,
+        "nombre": "Diseño Gráfico Avanzado con Adobe Illustrator",
+        "descripcion": "Domina las herramientas avanzadas de diseño gráfico con Illustrator.",
+        "instructor": "Laura Sánchez",
+        "duracionHoras": 40,
+        "fechaInicio": "2023-02-25T00:00:00.000Z",
+        "fechaFin": "2023-04-10T00:00:00.000Z",
+        "cupoMaximo": 30,
+        "costo": 149.99,
+        "nivel": "Avanzado",
+        "categoria": "Diseño Gráfico",
+        "requisitos": [
+          "Conocimientos previos de diseño gráfico básico."
+        ]
+      },
+      {
+        "id": 10,
+        "nombre": "Historia del Arte y la Cultura",
+        "descripcion": "Explora la historia del arte y la cultura a lo largo de los siglos.",
+        "instructor": "Manuel Gómez",
+        "duracionHoras": 50,
+        "fechaInicio": "2023-03-10T00:00:00.000Z",
+        "fechaFin": "2023-05-10T00:00:00.000Z",
+        "cupoMaximo": 35,
+        "costo": 159.99,
+        "nivel": "Intermedio",
+        "categoria": "Ciencias Sociales",
+        "requisitos": [
+          "Ninguno."
+        ]
+      },
+      {
+        "nombre": "nuevo curso Editado",
+        "descripcion": "nuevo curso prueba",
+        "instructor": "Evelina",
+        "costo": "1000",
+        "categoria": "Principiante",
+        "id": 11
+      },
+      {
+        "nombre": "Nuevo curso desde formulario",
+        "descripcion": "Prueba se agrega curso",
+        "instructor": "Evelina",
+        "costo": "1200",
+        "categoria": "principiante",
+        "id": 12
+      },
+      {
+        "nombre": "Nuevo curso prueba",
+        "descripcion": ".net",
+        "instructor": "Evelina",
+        "costo": "2400",
+        "categoria": "Intermedio",
+        "id": 13
+      },
+      {
+        "nombre": "Curso cocina",
+        "descripcion": "nuevas metodologías",
+        "instructor": "Evelina",
+        "costo": "2000",
+        "categoria": "Avanzado",
+        "id": 14
+      }
+    ],
+    "inscripciones": [
+      {
+        "id": 2,
+        "cursoId": 5,
+        "alumnoId": 8
+      },
+      {
+        "id": 4,
+        "cursoId": 8,
+        "alumnoId": 10
+      },
+      {
+        "id": 5,
+        "cursoId": 7,
+        "alumnoId": 7
+      },
+      {
+        "id": 6,
+        "cursoId": 10,
+        "alumnoId": 6
+      },
+      {
+        "id": 7,
+        "cursoId": 9,
+        "alumnoId": 5
+      }
+    ]
+  }
